@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NotesStyle">
+        <item name="android:textSize">@dimen/textView_text_size</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:paddingStart">@dimen/padding_start</item>
+    </style>
+
+</resources>
